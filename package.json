@@ -1,0 +1,10 @@
+{
+  "name": "brainfuck-js",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-mocha": "~0.4.7",
+    "grunt-cafe-mocha": "~0.1.10"
+  }
+}
